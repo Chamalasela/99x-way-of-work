@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwow=self.webpackChunkwow||[]).push([[7576],{6259:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/99x-way-of-work/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
