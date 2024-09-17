@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chamalasela.github.io/99x-way-of-work/blog</id>
-    <title>99x Way of work Blog</title>
+    <title>99x - Way of work Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chamalasela.github.io/99x-way-of-work/blog"/>
-    <subtitle>99x Way of work Blog</subtitle>
+    <subtitle>99x - Way of work Blog</subtitle>
     <icon>https://chamalasela.github.io/99x-way-of-work/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
