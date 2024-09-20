@@ -1,0 +1,27 @@
+{
+  "id": "product-experience/winning-product/content/formatting-guidelines",
+  "title": "Formatting Guidelines",
+  "description": "Some introduction text. Lists out all the headings from h1 to h6. Easy to customise.",
+  "source": "@site/docs/product-experience/winning-product/content/formatting-guidelines.md",
+  "sourceDirName": "product-experience/winning-product/content",
+  "slug": "/product-experience/winning-product/content/formatting-guidelines",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/formatting-guidelines",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Formatting Guidelines",
+    "metaTitle": "This is the title tag of this page",
+    "metaDescription": "This is the meta description"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Syntax Highlighting",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/formatting-guidelines/syntax-highligting"
+  },
+  "next": {
+    "title": "Why “Winning Product” is necessary?",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/background"
+  }
+}

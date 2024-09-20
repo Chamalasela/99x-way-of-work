@@ -1,0 +1,49 @@
+{
+  "id": "product-experience/winning-product/content/build/user-license-management",
+  "title": "User License Management",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/5-build/14-user-license-management.md",
+  "sourceDirName": "product-experience/winning-product/content/5-build",
+  "slug": "/product-experience/winning-product/content/build/user-license-management",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/user-license-management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "published": true,
+    "title": "User License Management",
+    "metaTitle": "User License Management | WP",
+    "metaDescription": "Build mechanisms for managing license agreements with users. Track usage for relevant features, license expiry, reminders, payments, etc. Implement restrictions based on price tiers and usage.",
+    "metaTags": [
+      "Build",
+      "User License Management",
+      "Winning Product Canvas",
+      "Technology Mastery"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "Have you identified the suitable license type for your product?",
+        "expectation": "Identify the suitable license among various types of licenses such as Per device, Per user, Subscription, GPL, CAL, Capacity based license, Freeware etc...",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "How do you track licenses of the existing customers?",
+        "expectation": "You should identify how to track the license expiration, payments and sending reminders.",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Release Gate Review",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/release-gate-reviews"
+  },
+  "next": {
+    "title": "Team Onboarding & Learning Plan",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/team-on-boarding-learning-plan"
+  }
+}

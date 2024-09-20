@@ -1,0 +1,35 @@
+{
+  "id": "product-experience/winning-product/content/plan/define-key-metric-tests",
+  "title": "Define Key Metric Tests",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/4-plan/09-define-key-metric-tests.md",
+  "sourceDirName": "product-experience/winning-product/content/4-plan",
+  "slug": "/product-experience/winning-product/content/plan/define-key-metric-tests",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/define-key-metric-tests",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Define Key Metric Tests",
+    "metaTitle": "Define Key Metric Tests | WP",
+    "metaDescription": "Define quantitative key matrices (timeline, quality, market success) that helps validate achievement of business goals.",
+    "published": true,
+    "metaTags": [
+      "Plan",
+      "Key Metric Tests",
+      "Winning Product",
+      "Customer Success"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Product Theme Integration",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/product-theme-integration"
+  },
+  "next": {
+    "title": "Customer Onboarding",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/customer-onboarding"
+  }
+}

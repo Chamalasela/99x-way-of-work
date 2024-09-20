@@ -1,0 +1,837 @@
+{
+  "/99x-way-of-work/blog-f5d": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "52a0439e"
+  },
+  "/99x-way-of-work/blog/archive-bbe": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "__props": "d5147d1e"
+  },
+  "/99x-way-of-work/blog/authors-9a8": {
+    "__comp": "621db11d",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "ebb8a867"
+  },
+  "/99x-way-of-work/blog/authors/all-sebastien-lorber-articles-a00": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "807e6364"
+  },
+  "/99x-way-of-work/blog/authors/yangshun-b1c": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "a3614a56"
+  },
+  "/99x-way-of-work/blog/first-blog-post-836": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/99x-way-of-work/blog/long-blog-post-e30": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/99x-way-of-work/blog/mdx-blog-post-4f9": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/99x-way-of-work/blog/tags-b23": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "a1da7151"
+  },
+  "/99x-way-of-work/blog/tags/docusaurus-d2e": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "be5e213d"
+  },
+  "/99x-way-of-work/blog/tags/facebook-f5f": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "__props": "8853a1b9"
+  },
+  "/99x-way-of-work/blog/tags/hello-485": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "__props": "df7352ba"
+  },
+  "/99x-way-of-work/blog/tags/hola-be3": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "a77680e2"
+  },
+  "/99x-way-of-work/blog/welcome-51b": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/99x-way-of-work/markdown-page-1e6": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "393be207"
+  },
+  "/99x-way-of-work/docs-56d": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/99x-way-of-work/docs-da0": {
+    "__comp": "a7bd4aaa",
+    "__props": "f2e667a7"
+  },
+  "/99x-way-of-work/docs/tags-7ab": {
+    "__comp": "3720c009",
+    "__props": "90dc6c84"
+  },
+  "/99x-way-of-work/docs/tags/customer-success-966": {
+    "__comp": "df203c0f",
+    "__props": "e765f294"
+  },
+  "/99x-way-of-work/docs/tags/log-indexing-and-analysis-ca5": {
+    "__comp": "df203c0f",
+    "__props": "c4f679bc"
+  },
+  "/99x-way-of-work/docs/tags/optimize-4be": {
+    "__comp": "df203c0f",
+    "__props": "8da8f0e2"
+  },
+  "/99x-way-of-work/docs/tags/winning-product-227": {
+    "__comp": "df203c0f",
+    "__props": "05fc84b2"
+  },
+  "/99x-way-of-work/docs-165": {
+    "__comp": "a94703ab"
+  },
+  "/99x-way-of-work/docs/-db9": {
+    "__comp": "17896441",
+    "content": "e5df49cd"
+  },
+  "/99x-way-of-work/docs/-2f1": {
+    "__comp": "17896441",
+    "content": "9f6a101a"
+  },
+  "/99x-way-of-work/docs/category/commonwealth-of-australia-626": {
+    "__comp": "14eb3368",
+    "__props": "1a20c501"
+  },
+  "/99x-way-of-work/docs/category/european-union-2c7": {
+    "__comp": "14eb3368",
+    "__props": "e001e3ce"
+  },
+  "/99x-way-of-work/docs/category/facilitated-teams-1b6": {
+    "__comp": "14eb3368",
+    "__props": "bf289864"
+  },
+  "/99x-way-of-work/docs/category/product-experience-acd": {
+    "__comp": "14eb3368",
+    "__props": "ff13ba5d"
+  },
+  "/99x-way-of-work/docs/category/united-kingdom-fc8": {
+    "__comp": "14eb3368",
+    "__props": "d677100a"
+  },
+  "/99x-way-of-work/docs/category/united-states-of-america-993": {
+    "__comp": "14eb3368",
+    "__props": "6abdccc3"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/compliance/privacy/australia/introduction-to-privacy-in-australia-cd2": {
+    "__comp": "17896441",
+    "content": "96bdc98f"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/compliance/privacy/europe/introduction-to-privacy-in-eu-ee9": {
+    "__comp": "17896441",
+    "content": "7520f38d"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/compliance/privacy/uk/introduction-to-privacy-in-uk-bec": {
+    "__comp": "17896441",
+    "content": "4aaf2e03"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/compliance/privacy/usa/introduction-to-privacy-in-usa-b4c": {
+    "__comp": "17896441",
+    "content": "5b6fd9ed"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/compliance/security/-f6a": {
+    "__comp": "17896441",
+    "content": "2cd272d0"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/delivery/methodologies/-aa5": {
+    "__comp": "17896441",
+    "content": "1e1efee1"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/delivery/onboarding/-8fa": {
+    "__comp": "17896441",
+    "content": "9a1722dd"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/delivery/team-setup/-b04": {
+    "__comp": "17896441",
+    "content": "d3ef9676"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/delivery/work-instructions/-598": {
+    "__comp": "17896441",
+    "content": "f9dfcf86"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/99x-well-architected-framework-196": {
+    "__comp": "17896441",
+    "content": "bff14350"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecting-new-products-fd4": {
+    "__comp": "17896441",
+    "content": "4e145b5d"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-assessment/due-diligence-process-8d4": {
+    "__comp": "17896441",
+    "content": "070232a9"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-assessment/health-review-65a": {
+    "__comp": "17896441",
+    "content": "1126a169"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-assessment/security-assessment-402": {
+    "__comp": "17896441",
+    "content": "3c4bc15a"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-evaluation/evaluation-overview-6c5": {
+    "__comp": "17896441",
+    "content": "7e0b8ecd"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-health/health-checklist-8f2": {
+    "__comp": "17896441",
+    "content": "9b2cec5d"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-health/health-overview-3a2": {
+    "__comp": "17896441",
+    "content": "270a4456"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/arthitecture-process-df3": {
+    "__comp": "17896441",
+    "content": "473d23ab"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/design-system-fd0": {
+    "__comp": "17896441",
+    "content": "bb27d15a"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/microfrontends-e9b": {
+    "__comp": "17896441",
+    "content": "81acb5fa"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/microservices-b7f": {
+    "__comp": "17896441",
+    "content": "cf9538a7"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/multi-tenancy-6df": {
+    "__comp": "17896441",
+    "content": "475592e2"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/serverless-d64": {
+    "__comp": "17896441",
+    "content": "a01c8121"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/focus-areas/cloud-architecture-a44": {
+    "__comp": "17896441",
+    "content": "01a0c872"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/focus-areas/devops-07e": {
+    "__comp": "17896441",
+    "content": "4b6776fa"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/focus-areas/secops-43b": {
+    "__comp": "17896441",
+    "content": "7b9975ac"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/focus-areas/web-application-4ed": {
+    "__comp": "17896441",
+    "content": "cd575464"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/kickstarters/aws-microservices/aws-microservice-technical-overview-3dd": {
+    "__comp": "17896441",
+    "content": "d46a46f8"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/kickstarters/aws-microservices/aws-microservices-overview-b12": {
+    "__comp": "17896441",
+    "content": "340d526b"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/managing-the-debt-d48": {
+    "__comp": "17896441",
+    "content": "fd825272"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/our-process/continuous-architecture-4c5": {
+    "__comp": "17896441",
+    "content": "875ad091"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/our-process/product-architecture-a93": {
+    "__comp": "17896441",
+    "content": "aa869210"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/dev/code-quality-guidelines/-ae6": {
+    "__comp": "17896441",
+    "content": "1bb1b9f6"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/engineering/dev/engineering-excellence-framework/-8e0": {
+    "__comp": "17896441",
+    "content": "e59feed4"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/reviews/code-quality-analysis/-d5b": {
+    "__comp": "17896441",
+    "content": "013a7435"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/reviews/engineering-reviews/-262": {
+    "__comp": "17896441",
+    "content": "7e3447b6"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/reviews/iso-compliance/-8fe": {
+    "__comp": "17896441",
+    "content": "480f4b7f"
+  },
+  "/99x-way-of-work/docs/facilitated-teams/reviews/security-reviews/-74b": {
+    "__comp": "17896441",
+    "content": "9dbaefd9"
+  },
+  "/99x-way-of-work/docs/intro-741": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/-f6c": {
+    "__comp": "17896441",
+    "content": "6008e330"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/build-f6d": {
+    "__comp": "17896441",
+    "content": "3adfe449"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/build/architectural-runway-48b": {
+    "__comp": "17896441",
+    "content": "fe42bc53"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/build/code-quality-process-592": {
+    "__comp": "17896441",
+    "content": "759d6666"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/build/data-privacy-protection-090": {
+    "__comp": "17896441",
+    "content": "ad11c04e"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/build/feature-prioritization-process-8ca": {
+    "__comp": "17896441",
+    "content": "4f06a221"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/build/lead-capture-cms-523": {
+    "__comp": "17896441",
+    "content": "909e6449"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/build/market-feedback-capture-f45": {
+    "__comp": "17896441",
+    "content": "9d2fa662"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/build/portfolio-management-c43": {
+    "__comp": "17896441",
+    "content": "510f642e"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/build/product-pricing-plan-7d6": {
+    "__comp": "17896441",
+    "content": "9059a787"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/build/release-gate-reviews-8a1": {
+    "__comp": "17896441",
+    "content": "4de3c0a0"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/build/team-on-boarding-learning-plan-3bf": {
+    "__comp": "17896441",
+    "content": "417f74f8"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/build/technical-debt-mgt-8bd": {
+    "__comp": "17896441",
+    "content": "dca6b9bf"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/build/test-automation-setup-ea6": {
+    "__comp": "17896441",
+    "content": "d8f7e077"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/build/user-behavior-analysis-1c7": {
+    "__comp": "17896441",
+    "content": "56736ab0"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/build/user-license-management-e50": {
+    "__comp": "17896441",
+    "content": "49e25c3f"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/build/visitor-behavior-analysis-b9c": {
+    "__comp": "17896441",
+    "content": "e5d56e88"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/build/vulnerability-assessment-30a": {
+    "__comp": "17896441",
+    "content": "2edb5e09"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/explore-0b0": {
+    "__comp": "17896441",
+    "content": "1ad6da48"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/explore/context-competitor-analysis-e94": {
+    "__comp": "17896441",
+    "content": "1260b79d"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/explore/financial-viability-29e": {
+    "__comp": "17896441",
+    "content": "02d85e3b"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/explore/market-segmentation-a8e": {
+    "__comp": "17896441",
+    "content": "b4cea1cf"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/explore/megatrend-analysis-c27": {
+    "__comp": "17896441",
+    "content": "1fa2a9ef"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/explore/personas-fcf": {
+    "__comp": "17896441",
+    "content": "ff2c5a60"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/explore/product-concept-pitch-deck-f37": {
+    "__comp": "17896441",
+    "content": "3fde2e1a"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/explore/user-journey-2f6": {
+    "__comp": "17896441",
+    "content": "6390f72a"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/explore/value-proposition-245": {
+    "__comp": "17896441",
+    "content": "a3a738c7"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/focus-197": {
+    "__comp": "17896441",
+    "content": "6b25e5cd"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/focus/brand-story-development-f32": {
+    "__comp": "17896441",
+    "content": "0977730a"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/focus/business-model-design-b7d": {
+    "__comp": "17896441",
+    "content": "7a4dd270"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/focus/feasibility-study-236": {
+    "__comp": "17896441",
+    "content": "f1e10458"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/focus/low-fidelity-prototype-328": {
+    "__comp": "17896441",
+    "content": "8f22f4f8"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/focus/mvp-identification-684": {
+    "__comp": "17896441",
+    "content": "4122d458"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/focus/problem-solution-fit-testing-4fc": {
+    "__comp": "17896441",
+    "content": "35479955"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/focus/productization-blueprint-a81": {
+    "__comp": "17896441",
+    "content": "6f94fab0"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/focus/technical-architecture-5f9": {
+    "__comp": "17896441",
+    "content": "e05cd163"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/formatting-guidelines-c0c": {
+    "__comp": "17896441",
+    "content": "bee5c914"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/formatting-guidelines/syntax-highligting-d4e": {
+    "__comp": "17896441",
+    "content": "7874ece6"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/harvest-c45": {
+    "__comp": "17896441",
+    "content": "e66ed935"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/contingency-and-reliability-reviews-e42": {
+    "__comp": "17896441",
+    "content": "a7aad635"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/continuous-improvement-strategy-772": {
+    "__comp": "17896441",
+    "content": "3bf663ef"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/hot-fix-process-ea0": {
+    "__comp": "17896441",
+    "content": "8c33cee6"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/inbound-marketing-plan-b72": {
+    "__comp": "17896441",
+    "content": "db657f0d"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/lead-nurture-process-935": {
+    "__comp": "17896441",
+    "content": "861e7894"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/monitoring-and-incident-management-0c4": {
+    "__comp": "17896441",
+    "content": "1f8a1dd0"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/public-relations-activity-plan-b42": {
+    "__comp": "17896441",
+    "content": "dc3904af"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/referrals-and-upsales-plan-f3f": {
+    "__comp": "17896441",
+    "content": "3fa25dad"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/scalability-verification-1c6": {
+    "__comp": "17896441",
+    "content": "b8a62d38"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/technology-revamp-migration-plan-0cc": {
+    "__comp": "17896441",
+    "content": "cd787606"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/win-lose-analysis-dbb": {
+    "__comp": "17896441",
+    "content": "50e0ee3b"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/immerse-b4f": {
+    "__comp": "17896441",
+    "content": "b3bf6aee"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/brand-guide-d02": {
+    "__comp": "17896441",
+    "content": "f7d02b6c"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/data-architecture-e90": {
+    "__comp": "17896441",
+    "content": "0240698c"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/development-estimations-e01": {
+    "__comp": "17896441",
+    "content": "a6e292f5"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/high-fidelity-prototype-b3b": {
+    "__comp": "17896441",
+    "content": "251e8bcf"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/operational-costs-1b0": {
+    "__comp": "17896441",
+    "content": "958bdd66"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/positioning-messages-94b": {
+    "__comp": "17896441",
+    "content": "00d44a27"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/product-market-fit-validation-e5e": {
+    "__comp": "17896441",
+    "content": "fc4be03b"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/product-roadmap-b65": {
+    "__comp": "17896441",
+    "content": "82ff2968"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/introduction-b9c": {
+    "__comp": "17896441",
+    "content": "4e605d69"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/areas-of-excellence-b31": {
+    "__comp": "17896441",
+    "content": "40c4c832"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/background-9d1": {
+    "__comp": "17896441",
+    "content": "0c6dccd0"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/product-lifecycle-af7": {
+    "__comp": "17896441",
+    "content": "03344f57"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/products-are-different-f86": {
+    "__comp": "17896441",
+    "content": "5afc5618"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/what-is-winning-product-71e": {
+    "__comp": "17896441",
+    "content": "e8ad3cfd"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/winning-product-mindset-f83": {
+    "__comp": "17896441",
+    "content": "02af12ce"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/optimize-802": {
+    "__comp": "17896441",
+    "content": "e7eddcff"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/analytics-review-process-85f": {
+    "__comp": "17896441",
+    "content": "65d10fa0"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/compliance-and-approvals-210": {
+    "__comp": "17896441",
+    "content": "8e152e78"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/cost-optimization-f7f": {
+    "__comp": "17896441",
+    "content": "c46cd422"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/customer-contract-management-df6": {
+    "__comp": "17896441",
+    "content": "1b7d7394"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/customer-support-149": {
+    "__comp": "17896441",
+    "content": "41abe819"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/log-indexing-and-analysis-0c8": {
+    "__comp": "17896441",
+    "content": "1ff046b1"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/performance-tuning-plan-7f7": {
+    "__comp": "17896441",
+    "content": "a324af96"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/promotions-process-115": {
+    "__comp": "17896441",
+    "content": "6a627a51"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/tech-team-branding-8f9": {
+    "__comp": "17896441",
+    "content": "29c97ac6"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/web-optimization-plan-2eb": {
+    "__comp": "17896441",
+    "content": "d4af6ab9"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/plan-554": {
+    "__comp": "17896441",
+    "content": "cde989e0"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/plan/architecture-blueprint-a09": {
+    "__comp": "17896441",
+    "content": "5559dd16"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/plan/customer-onboarding-053": {
+    "__comp": "17896441",
+    "content": "1f0ab02e"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/plan/define-key-metric-tests-bcd": {
+    "__comp": "17896441",
+    "content": "b580129f"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/plan/delivery-pipeline-c79": {
+    "__comp": "17896441",
+    "content": "87d0c45f"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/plan/detailed-data-schema-adc": {
+    "__comp": "17896441",
+    "content": "9d57e168"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/plan/digital-marketing-blueprint-ff4": {
+    "__comp": "17896441",
+    "content": "29757299"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/plan/engineering-process-1a3": {
+    "__comp": "17896441",
+    "content": "edac2b2c"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/plan/errors-and-exception-handling-36a": {
+    "__comp": "17896441",
+    "content": "4bf5a985"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/plan/growth-hacking-plan-65b": {
+    "__comp": "17896441",
+    "content": "ac966235"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/plan/ipr-management-12b": {
+    "__comp": "17896441",
+    "content": "b4ec0301"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/plan/product-theme-integration-02a": {
+    "__comp": "17896441",
+    "content": "9d857b47"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/plan/quality-assurance-plan-dd1": {
+    "__comp": "17896441",
+    "content": "883b567f"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/plan/quality-assurance-strategy-581": {
+    "__comp": "17896441",
+    "content": "cf6cdb84"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/plan/release-management-220": {
+    "__comp": "17896441",
+    "content": "f7035d35"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/plan/requirement-process-c57": {
+    "__comp": "17896441",
+    "content": "a119b94d"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/plan/team-structure-57b": {
+    "__comp": "17896441",
+    "content": "1c80a607"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/retire-876": {
+    "__comp": "17896441",
+    "content": "5624a2dc"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/retire/data-migration-plan-e63": {
+    "__comp": "17896441",
+    "content": "efa88192"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/retire/digital-data-shredding-c41": {
+    "__comp": "17896441",
+    "content": "badf6bf2"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/retire/end-of-life-roadmap-111": {
+    "__comp": "17896441",
+    "content": "f46f827c"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/retire/platform-migration-plan-95b": {
+    "__comp": "17896441",
+    "content": "88dbeedf"
+  },
+  "/99x-way-of-work/docs/product-experience/winning-product/content/retire/team-knowledge-transfer-plan-b23": {
+    "__comp": "17896441",
+    "content": "1e13eb2e"
+  },
+  "/99x-way-of-work/-048": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

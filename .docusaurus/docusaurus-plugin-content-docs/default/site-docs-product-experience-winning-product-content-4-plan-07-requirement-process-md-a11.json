@@ -1,0 +1,55 @@
+{
+  "id": "product-experience/winning-product/content/plan/requirement-process",
+  "title": "Requirement Process",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/4-plan/07-requirement-process.md",
+  "sourceDirName": "product-experience/winning-product/content/4-plan",
+  "slug": "/product-experience/winning-product/content/plan/requirement-process",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/requirement-process",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Requirement Process",
+    "metaTitle": "Requirement Process | WP",
+    "metaDescription": "Process of deriving, defining, communicating, documenting, prioritizing and obtaining user feedback.",
+    "published": true,
+    "checklist": [
+      {
+        "order": 1,
+        "question": "Is there an established product road map?",
+        "expectation": "All team members should be aware of the product road map. Road map should clearly indicate the upcoming features and their time lines.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "Is there a process to get customer feedback?",
+        "expectation": "A clear process should be in place to get customer feedback of the product. This feedback ideally needs to be captured during the development phase it self by involving customer in early prototypes.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 3,
+        "question": "How are the features prioritized?",
+        "expectation": "Features needs to be prioritized based on user preference data. There has to be evidence of collecting this data from the customers.",
+        "version": "1.0.0"
+      }
+    ],
+    "metaTags": [
+      "Immerse",
+      "Requirement process",
+      "Winning Product",
+      "Technology Mastery"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quality Assurance Strategy",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/quality-assurance-strategy"
+  },
+  "next": {
+    "title": "Product Theme Integration",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/product-theme-integration"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "facilitated-teams/engineering/architecting/architecture-health/health-overview",
+  "title": "Overview",
+  "description": "What is Architecture Health?",
+  "source": "@site/docs/facilitated-teams/engineering/architecting/architecture-health/health-overview.md",
+  "sourceDirName": "facilitated-teams/engineering/architecting/architecture-health",
+  "slug": "/facilitated-teams/engineering/architecting/architecture-health/health-overview",
+  "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-health/health-overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "health-overview",
+    "title": "Overview"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Health Checklist",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-health/health-checklist"
+  },
+  "next": {
+    "title": "Design Systems",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/design-system"
+  }
+}

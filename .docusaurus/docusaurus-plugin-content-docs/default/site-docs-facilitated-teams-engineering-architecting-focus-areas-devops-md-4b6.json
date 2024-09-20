@@ -1,0 +1,26 @@
+{
+  "id": "facilitated-teams/engineering/architecting/focus-areas/devops",
+  "title": "DevOps",
+  "description": "",
+  "source": "@site/docs/facilitated-teams/engineering/architecting/focus-areas/devops.md",
+  "sourceDirName": "facilitated-teams/engineering/architecting/focus-areas",
+  "slug": "/facilitated-teams/engineering/architecting/focus-areas/devops",
+  "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/focus-areas/devops",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "devops",
+    "title": "DevOps"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cloud Architecture",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/focus-areas/cloud-architecture"
+  },
+  "next": {
+    "title": "SecOps",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/focus-areas/secops"
+  }
+}

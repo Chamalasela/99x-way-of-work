@@ -1,0 +1,29 @@
+{
+  "id": "product-experience/winning-product/content/formatting-guidelines/syntax-highligting",
+  "title": "Syntax Highlighting",
+  "description": "The following is a code block with JavaScript language syntax highlighting.",
+  "source": "@site/docs/product-experience/winning-product/content/formatting-guidelines/1-syntax-highlighting.md",
+  "sourceDirName": "product-experience/winning-product/content/formatting-guidelines",
+  "slug": "/product-experience/winning-product/content/formatting-guidelines/syntax-highligting",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/formatting-guidelines/syntax-highligting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Syntax Highlighting",
+    "metaTitle": "Syntax Highlighting is the meta title tag for this page",
+    "metaDescription": "This is the meta description for this page",
+    "id": "syntax-highligting"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Retire",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/retire"
+  },
+  "next": {
+    "title": "Formatting Guidelines",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/formatting-guidelines"
+  }
+}

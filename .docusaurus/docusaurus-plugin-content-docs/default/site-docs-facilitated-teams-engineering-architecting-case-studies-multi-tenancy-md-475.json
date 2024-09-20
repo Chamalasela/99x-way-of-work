@@ -1,0 +1,26 @@
+{
+  "id": "facilitated-teams/engineering/architecting/case-studies/multi-tenancy",
+  "title": "Multi Tenancy",
+  "description": "",
+  "source": "@site/docs/facilitated-teams/engineering/architecting/case-studies/multi-tenancy.md",
+  "sourceDirName": "facilitated-teams/engineering/architecting/case-studies",
+  "slug": "/facilitated-teams/engineering/architecting/case-studies/multi-tenancy",
+  "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/multi-tenancy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "multi-tenancy",
+    "title": "Multi Tenancy"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Microservices",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/microservices"
+  },
+  "next": {
+    "title": "Serverless",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/serverless"
+  }
+}

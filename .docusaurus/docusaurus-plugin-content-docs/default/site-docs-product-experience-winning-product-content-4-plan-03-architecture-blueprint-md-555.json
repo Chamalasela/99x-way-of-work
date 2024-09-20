@@ -1,0 +1,56 @@
+{
+  "id": "product-experience/winning-product/content/plan/architecture-blueprint",
+  "title": "Architecture Blueprint",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/4-plan/03-architecture-blueprint.md",
+  "sourceDirName": "product-experience/winning-product/content/4-plan",
+  "slug": "/product-experience/winning-product/content/plan/architecture-blueprint",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/architecture-blueprint",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Architecture Blueprint",
+    "metaTitle": "Architecture Blueprint | WP",
+    "metaDescription": "Describes the architectural representation of the system's components. At the inception implement a feature vertical and the setup of the required infrastructure to act as a guideline for further development.",
+    "published": true,
+    "documentation": "TechArchitecture",
+    "metaTags": [
+      "Plan",
+      "Architecture Blueprint",
+      "Winning Product",
+      "Technology Mastery"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "Have you specified the traceability between architecture blueprint and requirements ?",
+        "expectation": "Clearly illustrate how certain architectural decisions have been taken to address each product requirement. An architecture decision log should be available to understand how assumptions and validation has taken place over a period of time.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "Have you identified architecturally significant requirements?",
+        "expectation": "List of requirements covering functional and non functional which has a direct impact for product architecture",
+        "version": "1.0.0"
+      },
+      {
+        "order": 3,
+        "question": "Have you documented various alternative architectures and tradeoff analysis before focusing on a specific architecture?",
+        "expectation": "Artefact covering alternative architecture analysis covering aspects of typical quality attributes of the product",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Team Structure",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/team-structure"
+  },
+  "next": {
+    "title": "Delivery Pipeline",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/delivery-pipeline"
+  }
+}

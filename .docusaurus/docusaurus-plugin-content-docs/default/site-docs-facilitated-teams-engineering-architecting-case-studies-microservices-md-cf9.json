@@ -1,0 +1,26 @@
+{
+  "id": "facilitated-teams/engineering/architecting/case-studies/microservices",
+  "title": "Microservices",
+  "description": "",
+  "source": "@site/docs/facilitated-teams/engineering/architecting/case-studies/microservices.md",
+  "sourceDirName": "facilitated-teams/engineering/architecting/case-studies",
+  "slug": "/facilitated-teams/engineering/architecting/case-studies/microservices",
+  "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/microservices",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "microservices",
+    "title": "Microservices"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Microfrontends",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/microfrontends"
+  },
+  "next": {
+    "title": "Multi Tenancy",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/multi-tenancy"
+  }
+}

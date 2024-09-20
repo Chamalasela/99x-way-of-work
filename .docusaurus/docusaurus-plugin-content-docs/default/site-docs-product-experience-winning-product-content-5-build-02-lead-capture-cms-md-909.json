@@ -1,0 +1,49 @@
+{
+  "id": "product-experience/winning-product/content/build/lead-capture-cms",
+  "title": "Lead Capture/CMS",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/5-build/02-lead-capture-cms.md",
+  "sourceDirName": "product-experience/winning-product/content/5-build",
+  "slug": "/product-experience/winning-product/content/build/lead-capture-cms",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/lead-capture-cms",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "published": true,
+    "title": "Lead Capture/CMS",
+    "metaTitle": "Lead Capture/CMS | WP",
+    "metaDescription": "Set up tools and workflows to capture and manage your potential customers. Invest in a Customer Relationship Management system to automate and provide a consistent experience.",
+    "metaTags": [
+      "Build",
+      "Lead Capture/CMS",
+      "Winning Product Canvas",
+      "User Experience"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "Are tools and workflows in place to capture and manage your potential customers?",
+        "expectation": "Tools and workflows should be set up (e.g. a customer relationship management system) to ensure the consistent customer experience.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "What lead capture techniques do you use?",
+        "expectation": "The use of proven lead capture techniques will speed up the potential customer converting process. CMS tools could also help in this area.",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architectural Runway",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/architectural-runway"
+  },
+  "next": {
+    "title": "Code Quality Process",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/code-quality-process"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "product-experience/winning-product/content/introduction/winning-product-mindset",
+  "title": "Winning Product Mindset",
+  "description": "Continuous Validation",
+  "source": "@site/docs/product-experience/winning-product/content/introduction/06-winning-product-mindset.md",
+  "sourceDirName": "product-experience/winning-product/content/introduction",
+  "slug": "/product-experience/winning-product/content/introduction/winning-product-mindset",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/winning-product-mindset",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Winning Product Mindset",
+    "metaTitle": "Winning Product Mindset | WP",
+    "metaDescription": "The correct Mindset helps you to follow certain guiding principles when conducting strategic activities to build a winning product.",
+    "published": true,
+    "metaTags": [
+      "Winning Product Mindset",
+      "Winning Product"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Product Lifecycle",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/product-lifecycle"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/introduction"
+  }
+}

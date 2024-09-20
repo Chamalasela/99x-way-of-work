@@ -1,0 +1,29 @@
+{
+  "id": "product-experience/winning-product/content/explore",
+  "title": "Explore",
+  "description": "This is the initial stage where you come up with an idea to solve an identified problem. It is important at this stage to take a complete view of the problem domain. Explore different possibilities before locking down on a focused product concept.",
+  "source": "@site/docs/product-experience/winning-product/content/1-explore.md",
+  "sourceDirName": "product-experience/winning-product/content",
+  "slug": "/product-experience/winning-product/content/explore",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/explore",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Explore",
+    "metaTitle": "Explore | WP",
+    "metaDescription": "Consider diverse alternatives to solve an identified problem.",
+    "published": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Market Segmentation",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/explore/market-segmentation"
+  },
+  "next": {
+    "title": "Business Model Design",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/focus/business-model-design"
+  }
+}

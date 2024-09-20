@@ -1,0 +1,26 @@
+{
+  "id": "facilitated-teams/engineering/architecting/architecture-health/health-checklist",
+  "title": "Health Checklist",
+  "description": "",
+  "source": "@site/docs/facilitated-teams/engineering/architecting/architecture-health/health-checklist.md",
+  "sourceDirName": "facilitated-teams/engineering/architecting/architecture-health",
+  "slug": "/facilitated-teams/engineering/architecting/architecture-health/health-checklist",
+  "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-health/health-checklist",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "health-checklist",
+    "title": "Health Checklist"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-evaluation/evaluation-overview"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-health/health-overview"
+  }
+}

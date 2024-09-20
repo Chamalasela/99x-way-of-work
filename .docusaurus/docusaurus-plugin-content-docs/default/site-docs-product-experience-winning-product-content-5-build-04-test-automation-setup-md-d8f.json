@@ -1,0 +1,55 @@
+{
+  "id": "product-experience/winning-product/content/build/test-automation-setup",
+  "title": "Test Automation Setup",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/5-build/04-test-automation-setup.md",
+  "sourceDirName": "product-experience/winning-product/content/5-build",
+  "slug": "/product-experience/winning-product/content/build/test-automation-setup",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/test-automation-setup",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "published": true,
+    "title": "Test Automation Setup",
+    "metaTitle": "Test Automation Setup | WP",
+    "metaDescription": "Identify the high priority areas for test automation. E.g., regression tests and repetitive tests. Make the tests run on commits and deployments.",
+    "metaTags": [
+      "Build",
+      "Technical Debt Management",
+      "Winning Product Canvas",
+      "Customer Success"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "Have you thought of having automated test cases in your project?",
+        "expectation": "Automated test cases can help testing activity to a greater extent in terms of time saving, efficiency and reliability",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "Did you do an analysis on which test cases to be automated?",
+        "expectation": "Identifying the correct test cases to automate is crucial. As trying to automate the wrong test cases might cause negative impacts to the project.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 3,
+        "question": "How did you arrive at the tools and technology to be used in the automation?",
+        "expectation": "Identifying the best technology and tools to develop the automation framework is important in order match with the application under test and team composition.",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Code Quality Process",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/code-quality-process"
+  },
+  "next": {
+    "title": "Visitor Behaviour Analysis",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/visitor-behavior-analysis"
+  }
+}

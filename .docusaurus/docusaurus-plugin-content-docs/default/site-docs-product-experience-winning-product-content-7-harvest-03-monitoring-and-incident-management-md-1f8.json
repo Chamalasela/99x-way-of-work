@@ -1,0 +1,35 @@
+{
+  "id": "product-experience/winning-product/content/harvest/monitoring-and-incident-management",
+  "title": "Monitoring and Incident Management",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/7-harvest/03-monitoring-and-incident-management.md",
+  "sourceDirName": "product-experience/winning-product/content/7-harvest",
+  "slug": "/product-experience/winning-product/content/harvest/monitoring-and-incident-management",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/monitoring-and-incident-management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Monitoring and Incident Management",
+    "metaTitle": "Monitoring and Incident Management | WP",
+    "metaDescription": "Monitor system health detect and alert regarding system malfunctions and failures. While exception monitoring deals with problems within the product, incident management deals with problems on the larger stack of software and hardware.",
+    "published": true,
+    "metaTags": [
+      "Harvest",
+      "Monitoring and Incident Management",
+      "Winning Product",
+      "Customer Success"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Continuous Improvement Strategy",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/continuous-improvement-strategy"
+  },
+  "next": {
+    "title": "Hot-fix Process",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/hot-fix-process"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "product-experience/winning-product/content/build/user-behavior-analysis",
+  "title": "User Behavior Analysis",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/5-build/09-user-behavior-analysis.md",
+  "sourceDirName": "product-experience/winning-product/content/5-build",
+  "slug": "/product-experience/winning-product/content/build/user-behavior-analysis",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/user-behavior-analysis",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "published": true,
+    "title": "User Behavior Analysis",
+    "metaTitle": "User Behavior Analysis | WP",
+    "metaDescription": "Build mechanisms to track and analyze user behavior within the system to improve features and provide better UX.",
+    "metaTags": [
+      "Build",
+      "User Behavior Analysis",
+      "Winning Product Canvas",
+      "User Experience"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "Have you implemented any user behavior analysis system for your application?",
+        "expectation": "You need to find the right tools and capture user behavior data to analyze user behavior and optimize the application for improved usability.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "Do you inform your users that you collect these data?",
+        "expectation": "It is necessary to inform the users that you collect the user's behavior data and the criteria for analysis to comply with privacy regulations like GDPR.",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Privacy Protection",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/data-privacy-protection"
+  },
+  "next": {
+    "title": "Feature Prioritization Process",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/feature-prioritization-process"
+  }
+}

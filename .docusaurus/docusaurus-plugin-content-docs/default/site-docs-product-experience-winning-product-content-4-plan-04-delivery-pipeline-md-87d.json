@@ -1,0 +1,56 @@
+{
+  "id": "product-experience/winning-product/content/plan/delivery-pipeline",
+  "title": "Delivery Pipeline",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/4-plan/04-delivery-pipeline.md",
+  "sourceDirName": "product-experience/winning-product/content/4-plan",
+  "slug": "/product-experience/winning-product/content/plan/delivery-pipeline",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/delivery-pipeline",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Delivery Pipeline",
+    "metaTitle": "Delivery Pipeline | WP",
+    "metaDescription": "Helps you automate steps in your software delivery process, such as initiating code builds, static code analysis, running automated tests, and deploying to a staging or production environment.",
+    "published": true,
+    "documentation": "TechArchitecture",
+    "metaTags": [
+      "Plan",
+      "Delivery Pipeline",
+      "Winning Product",
+      "Customer Success"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "Have you setup key steps of the CI pipeline?",
+        "expectation": "Ability to demonstrate CI configuration and execute CI job successfully having tasks such as, code quality analysis, unit test execution, security tests",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "Have you setup key steps of the CD pipeline?",
+        "expectation": "Ability to demonstrate the key stages of the delivery such as executing infrastructure code, execute code to configure infrastructure, prmote artefacts across different stages of the pipeline, have different nonfunctional automated tests harnesses.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 3,
+        "question": "Have you identified release methods different to deployment techniques?",
+        "expectation": "Ability to decouple deployments from releases",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architecture Blueprint",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/architecture-blueprint"
+  },
+  "next": {
+    "title": "Detailed Data Schema",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/detailed-data-schema"
+  }
+}

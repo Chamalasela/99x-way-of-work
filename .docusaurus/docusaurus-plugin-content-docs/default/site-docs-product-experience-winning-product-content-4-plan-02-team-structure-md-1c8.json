@@ -1,0 +1,56 @@
+{
+  "id": "product-experience/winning-product/content/plan/team-structure",
+  "title": "Team Structure",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/4-plan/02-team-structure.md",
+  "sourceDirName": "product-experience/winning-product/content/4-plan",
+  "slug": "/product-experience/winning-product/content/plan/team-structure",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/team-structure",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Team Structure",
+    "metaTitle": "Team Structure | WP",
+    "metaDescription": "Defines key roles, job responsibilities, boundaries, and values of the team. Everyone should understand who does what and their purpose in the team.",
+    "published": true,
+    "documentation": "DeliveryProcess",
+    "metaTags": [
+      "Immerse",
+      "Team Structure",
+      "Winning Product",
+      "Technology Mastery"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "Have you identified different roles and skills required for the team?",
+        "expectation": "Able to show list of roles covering major aspects of product eng. and under each skillset, list of roles from Product Mgt. to DevOps",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "Have you identified a communication and escalation plan?",
+        "expectation": "By way of documentation and able to illustrate how communication should take place from requirement gathering to escalating risks and plans.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 3,
+        "question": "Have you identified a set of KPIs for members playing in specified roles?",
+        "expectation": "Defined KPI which has been communicated to team members",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Project Process",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/engineering-process"
+  },
+  "next": {
+    "title": "Architecture Blueprint",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/architecture-blueprint"
+  }
+}

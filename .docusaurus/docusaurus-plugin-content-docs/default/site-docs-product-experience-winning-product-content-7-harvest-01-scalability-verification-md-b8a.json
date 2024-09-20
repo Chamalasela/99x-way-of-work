@@ -1,0 +1,55 @@
+{
+  "id": "product-experience/winning-product/content/harvest/scalability-verification",
+  "title": "Scalability Verification",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/7-harvest/01-scalability-verification.md",
+  "sourceDirName": "product-experience/winning-product/content/7-harvest",
+  "slug": "/product-experience/winning-product/content/harvest/scalability-verification",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/scalability-verification",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Scalability Verification",
+    "metaTitle": "Scalability Verification | WP",
+    "metaDescription": "Ensure your application scales as users grow. Explore scale up and scale out strategies while maintaining SLA obligations and efficient cost of operations.",
+    "published": true,
+    "metaTags": [
+      "Harvest",
+      "Scalability Verification",
+      "Winning Product",
+      "Customer Success"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "Has your platform architecture provisioning for scalability?",
+        "expectation": "Cloud vendors provide scalability requirements out of the box, but your architecture should have placed important components such as load balancers, decoupling patters, etc... Explore scale up and scale down mechanisms.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "Have you defined performance benchmarks?",
+        "expectation": "Verify that performance benchmarks defined during initial architecture.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 3,
+        "question": "Have you setup performance metrics monitoring?",
+        "expectation": "Monitoring to gather data from all deployed resources ensure that the throughput KPIs are met and the limitations are communicated to the entire team . Overview of monitoring mechanisms.",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Optimize",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/optimize"
+  },
+  "next": {
+    "title": "Continuous Improvement Strategy",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/continuous-improvement-strategy"
+  }
+}

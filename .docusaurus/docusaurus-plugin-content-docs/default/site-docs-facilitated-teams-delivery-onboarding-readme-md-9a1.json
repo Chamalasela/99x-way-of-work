@@ -1,0 +1,23 @@
+{
+  "id": "facilitated-teams/delivery/onboarding/README",
+  "title": "99x Wow (Way of Work)",
+  "description": "99X has specialized in building software products and platforms for over a decade, amassing extensive knowledge on how to successfully deliver software products. This knowledge base aims to share that expertise for the benefit of Xians and others.",
+  "source": "@site/docs/facilitated-teams/delivery/onboarding/README.md",
+  "sourceDirName": "facilitated-teams/delivery/onboarding",
+  "slug": "/facilitated-teams/delivery/onboarding/",
+  "permalink": "/99x-way-of-work/docs/facilitated-teams/delivery/onboarding/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "99x Wow (Way of Work)",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/delivery/methodologies/"
+  },
+  "next": {
+    "title": "99x Wow (Way of Work)",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/delivery/team-setup/"
+  }
+}
