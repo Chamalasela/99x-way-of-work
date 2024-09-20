@@ -1,0 +1,49 @@
+{
+  "id": "product-experience/winning-product/content/build/market-feedback-capture",
+  "title": "Market Feedback Capture",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/5-build/06-market-feedback-capture.md",
+  "sourceDirName": "product-experience/winning-product/content/5-build",
+  "slug": "/product-experience/winning-product/content/build/market-feedback-capture",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/market-feedback-capture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "published": true,
+    "title": "Market Feedback Capture",
+    "metaTitle": "Market Feedback Capture | WP",
+    "metaDescription": "Build mechanisms to continuously feed the product development team with user feedback, sales team findings, competition behavior, and support team findings.",
+    "metaTags": [
+      "Build",
+      "Market Feedback Capture",
+      "Winning Product Canvas",
+      "Market Sense"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "What is your strategy for capturing market feedback?",
+        "expectation": "A mechanism should be in place to allow the product development team to know market feed.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "How you utilize market feedback in the product development process?",
+        "expectation": "Received market feedback should be managed and utilized in product development (e.g. feature designing, UX improvements, etc)",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Visitor Behaviour Analysis",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/visitor-behavior-analysis"
+  },
+  "next": {
+    "title": "Technical Debt Management",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/technical-debt-mgt"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "product-experience/winning-product/content/build/team-on-boarding-learning-plan",
+  "title": "Team Onboarding & Learning Plan",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/5-build/15-team-on-boarding-learning-plan.md",
+  "sourceDirName": "product-experience/winning-product/content/5-build",
+  "slug": "/product-experience/winning-product/content/build/team-on-boarding-learning-plan",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/team-on-boarding-learning-plan",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "published": true,
+    "title": "Team Onboarding & Learning Plan",
+    "metaTitle": "Team Onboarding & Learning Plan | WP",
+    "metaDescription": "Create a quick ramp-up guide on both domain, technical and process knowledge for new team members. Make them aware of their purpose responsibilities in the team.",
+    "metaTags": [
+      "Build",
+      "On-boarding",
+      "Winning Product Canvas",
+      "Technology Mastery"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "Have you defined a set of etiquette and guidelines to be followed throughout the hiring process?",
+        "expectation": "Define a set of etiquette and guidelines to be followed throughout the hiring process(from interview setup to contract signing).",
+        "Version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "Have you defined a pre-boarding checklist?",
+        "expectation": "Define a checklist of items to get done after hiring a new employee but before their first day at work(setting up necessary accounts, planning out the first day on-boarding sessions etc.).",
+        "Version": "1.0.0"
+      },
+      {
+        "order": 3,
+        "question": "Have you devised a proper program to continuously support the new recruit to effectively adapt to your organization?",
+        "expectation": "Devise a proper program to continuously support the new recruit to effectively adapt to your organization(buddy program, mentor program etc.). This should include a mechanism to evaluate the effectiveness of new employee on-boarding as well.",
+        "Version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User License Management",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/user-license-management"
+  },
+  "next": {
+    "title": "Vulnerability Assessment",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/vulnerability-assessment"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "product-experience/winning-product/content/plan/digital-marketing-blueprint",
+  "title": "Digital Marketing Blueprint",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/4-plan/11-digital-marketing-blueprint.md",
+  "sourceDirName": "product-experience/winning-product/content/4-plan",
+  "slug": "/product-experience/winning-product/content/plan/digital-marketing-blueprint",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/digital-marketing-blueprint",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "title": "Digital Marketing Blueprint",
+    "metaTitle": "Digital Marketing Blueprint | WP",
+    "metaDescription": "A consolidated marketing plan including market segments, key messages, channels, lead capture, nurture, convert, up sale, referrals.",
+    "published": true,
+    "metaTags": [
+      "Plan",
+      "Digital Marketing Plan",
+      "Winning Product",
+      "Market Sense"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "Do you have a digital marketing strategy?",
+        "expectation": "You should have a digital marketing strategy because it allows you to reach a global marketplace from anywhere in the world.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "Have you identified the customer personas for the digital marketing strategy?",
+        "expectation": "Define quantitative demographics and qualitative information, and create a detailed profile for each of your personas",
+        "version": "1.0.0"
+      },
+      {
+        "order": 3,
+        "question": "What are your digital marketing channels?",
+        "expectation": "Gather what you have, and categorize each of your channels, so you have a clear picture of your existing owned, earned, and paid media.",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Customer Onboarding",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/customer-onboarding"
+  },
+  "next": {
+    "title": "Growth Hacker Plan",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/growth-hacking-plan"
+  }
+}

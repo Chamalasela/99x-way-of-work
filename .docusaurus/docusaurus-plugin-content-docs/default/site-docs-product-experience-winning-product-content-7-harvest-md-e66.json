@@ -1,0 +1,29 @@
+{
+  "id": "product-experience/winning-product/content/harvest",
+  "title": "Harvest",
+  "description": "This is the stage your product returns the investment. The focus of this stage is to retain happy and loyal customers, up-sell more, and get referrals to grow the business. You need very stable operational processes to respond to customer issues and inquiries. Build and tune your sales and marketing processes to capture a greater market share.",
+  "source": "@site/docs/product-experience/winning-product/content/7-harvest.md",
+  "sourceDirName": "product-experience/winning-product/content",
+  "slug": "/product-experience/winning-product/content/harvest",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Harvest",
+    "metaTitle": "Harvest | WP",
+    "metaDescription": "Operate with the highest return on investment.",
+    "published": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Win-lose Analysis",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/win-lose-analysis"
+  },
+  "next": {
+    "title": "End-of-life Roadmap",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/retire/end-of-life-roadmap"
+  }
+}

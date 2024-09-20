@@ -1,0 +1,55 @@
+{
+  "id": "product-experience/winning-product/content/harvest/referrals-and-upsales-plan",
+  "title": "Referrals and Upsales Plan",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/7-harvest/07-referrals-and-upsales-plan.md",
+  "sourceDirName": "product-experience/winning-product/content/7-harvest",
+  "slug": "/product-experience/winning-product/content/harvest/referrals-and-upsales-plan",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/referrals-and-upsales-plan",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Referrals and Upsales Plan",
+    "metaTitle": "Referrals and Upsales Plan | WP",
+    "metaDescription": "A marketing plan makes use of recommendations and word of mouth to grow the products customer base through the networks of its existing customers while establishing customer loyalty.",
+    "published": true,
+    "metaTags": [
+      "Harvest",
+      "Referrals and up a sales plan",
+      "Winning Product Canvas",
+      "Market Sense"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "Have you identified the forms of promotions worked for the target market?",
+        "expectation": "Overview of the target market, previous referral programs, promotions and their impact.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "Have you planed the time and resources investment for referral programs?",
+        "expectation": "The program should be strategically planned out, regularly measured, and managed on an ongoing basis.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 3,
+        "question": "Did you set up goals?",
+        "expectation": "Referral goals like referring X number of people or earning Y points, average upsales brings by new customers into the business from referrals.",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lead nurture pipeline",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/lead-nurture-process"
+  },
+  "next": {
+    "title": "Technology Revamp/Migration Plan",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/technology-revamp-migration-plan"
+  }
+}

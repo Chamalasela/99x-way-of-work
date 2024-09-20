@@ -1,0 +1,35 @@
+{
+  "id": "product-experience/winning-product/content/harvest/lead-nurture-process",
+  "title": "Lead nurture pipeline",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/7-harvest/06-lead-nurture-process.md",
+  "sourceDirName": "product-experience/winning-product/content/7-harvest",
+  "slug": "/product-experience/winning-product/content/harvest/lead-nurture-process",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/lead-nurture-process",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Lead nurture pipeline",
+    "metaTitle": "Lead nurture pipeline | WP",
+    "metaDescription": "Start educating prospects, build awareness of your organization and its products. Build trust and a good relationship to ensure the potential client chooses you when it is time to buy.",
+    "published": true,
+    "metaTags": [
+      "Harvest",
+      "Lead nurture process",
+      "Winning Product Canvas",
+      "User Experience"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Inbound Market Planning",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/inbound-marketing-plan"
+  },
+  "next": {
+    "title": "Referrals and Upsales Plan",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/referrals-and-upsales-plan"
+  }
+}

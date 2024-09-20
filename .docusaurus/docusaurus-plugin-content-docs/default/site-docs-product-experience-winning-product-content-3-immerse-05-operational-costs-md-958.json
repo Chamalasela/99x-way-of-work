@@ -1,0 +1,36 @@
+{
+  "id": "product-experience/winning-product/content/immerse/operational-costs",
+  "title": "Operational Costs",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/3-immerse/05-operational-costs.md",
+  "sourceDirName": "product-experience/winning-product/content/3-immerse",
+  "slug": "/product-experience/winning-product/content/immerse/operational-costs",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/operational-costs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Operational Costs",
+    "metaTitle": "Operational Costs | WP",
+    "metaDescription": "Running cost estimations in operation including infrastructure and training.",
+    "published": true,
+    "documentation": "CostBook",
+    "metaTags": [
+      "Immerse",
+      "Operational Estimations",
+      "Winning Product",
+      "Customer Success"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Engineering Estimations",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/development-estimations"
+  },
+  "next": {
+    "title": "High Fidelity Prototype",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/high-fidelity-prototype"
+  }
+}

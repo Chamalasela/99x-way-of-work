@@ -1,0 +1,49 @@
+{
+  "id": "product-experience/winning-product/content/explore/megatrend-analysis",
+  "title": "Megatrend Analysis",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/1-explore/07-megatrend-analysis.md",
+  "sourceDirName": "product-experience/winning-product/content/1-explore",
+  "slug": "/product-experience/winning-product/content/explore/megatrend-analysis",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/explore/megatrend-analysis",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Megatrend Analysis",
+    "metaTitle": "Megatrend Analysis | WP",
+    "metaDescription": "Megatrends represent potential behavioral or attitudinal changes over the course of time in your consumers/users.  Megatrend analysis answers the question “What is happening? at a macro level.",
+    "published": true,
+    "metaTags": [
+      "Explore",
+      "Megatrend Analysis",
+      "Winning Products",
+      "Market Sense"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "Have you identified the factors driving long-term behavioural and attitude changes of your target market?",
+        "expectation": "Maintain a document explaining the significance of each of the identified factor.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "Can your team members explain the megatrends that can potentially disrupt the domain you are operating?",
+        "expectation": "Maintain a shared understanding regarding important megatrends through a document.",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User Journey",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/explore/user-journey"
+  },
+  "next": {
+    "title": "Market Segmentation",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/explore/market-segmentation"
+  }
+}

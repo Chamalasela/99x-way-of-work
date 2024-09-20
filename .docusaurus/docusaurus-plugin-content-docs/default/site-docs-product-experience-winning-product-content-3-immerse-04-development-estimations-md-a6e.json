@@ -1,0 +1,56 @@
+{
+  "id": "product-experience/winning-product/content/immerse/development-estimations",
+  "title": "Engineering Estimations",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/3-immerse/04-development-estimations.md",
+  "sourceDirName": "product-experience/winning-product/content/3-immerse",
+  "slug": "/product-experience/winning-product/content/immerse/development-estimations",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/development-estimations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Engineering Estimations",
+    "metaTitle": "Engineering Estimations | WP",
+    "metaDescription": "Estimating the development efforts for functional and non-functional features.",
+    "published": true,
+    "documentation": "CostBook",
+    "metaTags": [
+      "Immerse",
+      "Engineering Estimations",
+      "Winning Product",
+      "Technology Mastery"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "How do you estimate functional and non-functional features in your project?",
+        "expectation": "An explanation of the estimation process used in the project.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "What is the Task/Method Estimation aka Bottom-up Estimation?",
+        "expectation": "An explanation of the popular Task/Method estimation and its key pointers",
+        "version": "1.0.0"
+      },
+      {
+        "order": 3,
+        "question": "Where would you use the Heuristic Method of estimation?",
+        "expectation": "If there are analogus estimations that had been done for similar features in the same or other projects.",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Positioning Messages",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/positioning-messages"
+  },
+  "next": {
+    "title": "Operational Costs",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/operational-costs"
+  }
+}

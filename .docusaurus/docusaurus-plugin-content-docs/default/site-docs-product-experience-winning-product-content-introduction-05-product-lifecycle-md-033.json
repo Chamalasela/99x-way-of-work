@@ -1,0 +1,33 @@
+{
+  "id": "product-experience/winning-product/content/introduction/product-lifecycle",
+  "title": "Product Lifecycle",
+  "description": "Winning Product Canvas divides the product's lifecycle into 8 stages. These stages are unlike the Waterfall phases. They are iterative at product level, module level and even at feature level. These stages differ in subtle but important ways. By understanding the focus of each stage, you can understand the strategic activities within it.",
+  "source": "@site/docs/product-experience/winning-product/content/introduction/05-product-lifecycle.md",
+  "sourceDirName": "product-experience/winning-product/content/introduction",
+  "slug": "/product-experience/winning-product/content/introduction/product-lifecycle",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/product-lifecycle",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Product Lifecycle",
+    "metaTitle": "Product Lifecycle | WP",
+    "metaDescription": "Regardless of the domain, all software products have a life cycle. The Product Life Cycle (PLC) is the cycle of stages that a new or redeveloped product goes through, from start to finish. Understanding how to manage that product life cycle through each stage determines the success or failure of a product.",
+    "published": true,
+    "metaTags": [
+      "Product Lifecycle",
+      "Winning Product"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is a Winning Product?",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/what-is-winning-product"
+  },
+  "next": {
+    "title": "Winning Product Mindset",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/winning-product-mindset"
+  }
+}

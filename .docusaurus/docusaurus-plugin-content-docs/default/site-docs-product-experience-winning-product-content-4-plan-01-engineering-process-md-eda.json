@@ -1,0 +1,80 @@
+{
+  "id": "product-experience/winning-product/content/plan/engineering-process",
+  "title": "Project Process",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/4-plan/01-engineering-process.md",
+  "sourceDirName": "product-experience/winning-product/content/4-plan",
+  "slug": "/product-experience/winning-product/content/plan/engineering-process",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/engineering-process",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Project Process",
+    "metaTitle": "Project Process | WP",
+    "metaDescription": "A set of activities and the systematic process that needs to be carried out to develop the product in both engineering and delivery disciplines.",
+    "published": true,
+    "documentation": "DeliveryProcess",
+    "metaTags": [
+      "Immerse",
+      "Project Process",
+      "Winning Product",
+      "Technology Mastery"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "PI_Test_Demo-Have you access to overall process guidance for the product engineering?",
+        "expectation": "PI_Test_Demo-Team should have access to documented process policy, proceedures, and work instructions",
+        "version": "1.0.3"
+      },
+      {
+        "order": 2,
+        "question": "Have you identified a development or engineering process?",
+        "expectation": "A documented process clearly indicating why it has been selected. Eg. SCRUM along with product design proceedures",
+        "version": "1.0.0"
+      },
+      {
+        "order": 3,
+        "question": "Have you identified a DevOps process?",
+        "expectation": "A documented process clearly indicating why it has been selected over other devops processes eg. process which includes automated CD",
+        "version": "1.0.0"
+      },
+      {
+        "order": 4,
+        "question": "Have you identified a quality engineering process?",
+        "expectation": "A documented process clearly indicating why it has been selected eg. process which assures the quality across all stages of the lifecycle of the product",
+        "version": "1.0.0"
+      },
+      {
+        "order": 5,
+        "question": "Have you identified a release management process?",
+        "expectation": "A documented process clearly indicating why it has been selected eg. process which assures the suitable SLA and minimum lead time.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 6,
+        "question": "Have you identified a release management process?",
+        "expectation": "A documented process clearly indicating why it has been selected eg. process which assures the suitable SLA and minimum lead time.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 7,
+        "question": "Have you identified a product management process?",
+        "expectation": "A documented process clearly indicating why it has been selected eg. ability to translate business needs into a features to be engineered.",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Immerse",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/immerse"
+  },
+  "next": {
+    "title": "Team Structure",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/team-structure"
+  }
+}

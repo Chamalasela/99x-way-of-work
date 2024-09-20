@@ -1,0 +1,55 @@
+{
+  "id": "product-experience/winning-product/content/focus/problem-solution-fit-testing",
+  "title": "Problem Solution Fit Testing",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/2-focus/03-problem-solution-fit-testing.md",
+  "sourceDirName": "product-experience/winning-product/content/2-focus",
+  "slug": "/product-experience/winning-product/content/focus/problem-solution-fit-testing",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/focus/problem-solution-fit-testing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Problem Solution Fit Testing",
+    "metaTitle": "Problem Solution Fit Testing | WP",
+    "metaDescription": "Find out if the problem you picked is worth solving. The problem statement should effortlessly ring a bell with your customers. They should be willing to write a cheque to you for solving their problem!",
+    "published": true,
+    "metaTags": [
+      "Focus",
+      "Problem Solution Fit Testing",
+      "Winning Product",
+      "Market Sense"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "Have you identified the problem that your product solves?",
+        "expectation": "The problem has to be identified clearly. If you have to educate potential customers about the problem, you might as well solve a non-existing problem",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "How would customers rate your value proposition?",
+        "expectation": "Does your solution falls under 'Nice to have', 'Should have' or 'Must have'? It’s difficult to build a business model around 'Nice to have' ideas.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 3,
+        "question": "Did you talk to your potential customers to test your solution for the problem?",
+        "expectation": "There is no other way of testing your problem solution fit other than talking to your potential customers. You can make calls, schedule meetings or send out surveys to collect information on how important it is for them to have the identified problem solved.",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MVP Identification",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/focus/mvp-identification"
+  },
+  "next": {
+    "title": "Low Fidelity Prototype",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/focus/low-fidelity-prototype"
+  }
+}

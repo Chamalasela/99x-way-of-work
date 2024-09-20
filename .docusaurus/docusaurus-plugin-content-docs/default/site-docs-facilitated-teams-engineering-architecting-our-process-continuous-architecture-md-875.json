@@ -1,0 +1,26 @@
+{
+  "id": "facilitated-teams/engineering/architecting/our-process/continuous-architecture",
+  "title": "Continuous Architecture",
+  "description": "",
+  "source": "@site/docs/facilitated-teams/engineering/architecting/our-process/continuous-architecture.md",
+  "sourceDirName": "facilitated-teams/engineering/architecting/our-process",
+  "slug": "/facilitated-teams/engineering/architecting/our-process/continuous-architecture",
+  "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/our-process/continuous-architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "continuous-architecture",
+    "title": "Continuous Architecture"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Managing technical debt",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/managing-the-debt"
+  },
+  "next": {
+    "title": "Product Architecture",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/our-process/product-architecture"
+  }
+}

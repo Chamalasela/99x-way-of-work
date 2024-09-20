@@ -1,0 +1,26 @@
+{
+  "id": "facilitated-teams/engineering/architecting/case-studies/microfrontends",
+  "title": "Microfrontends",
+  "description": "",
+  "source": "@site/docs/facilitated-teams/engineering/architecting/case-studies/microfrontends.md",
+  "sourceDirName": "facilitated-teams/engineering/architecting/case-studies",
+  "slug": "/facilitated-teams/engineering/architecting/case-studies/microfrontends",
+  "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/microfrontends",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "microfrontends",
+    "title": "Microfrontends"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Design Systems",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/design-system"
+  },
+  "next": {
+    "title": "Microservices",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/microservices"
+  }
+}

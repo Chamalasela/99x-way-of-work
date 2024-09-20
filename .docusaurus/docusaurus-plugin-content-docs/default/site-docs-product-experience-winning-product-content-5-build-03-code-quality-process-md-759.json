@@ -1,0 +1,55 @@
+{
+  "id": "product-experience/winning-product/content/build/code-quality-process",
+  "title": "Code Quality Process",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/5-build/03-code-quality-process.md",
+  "sourceDirName": "product-experience/winning-product/content/5-build",
+  "slug": "/product-experience/winning-product/content/build/code-quality-process",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/code-quality-process",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "published": true,
+    "title": "Code Quality Process",
+    "metaTitle": "Code Quality Process | WP",
+    "metaDescription": "Establish a process to ensure code quality. Implement static code analysis and peer review processes to have a code that does what it should, follow a consistent style, is easy to understand, has been well-documented, and can be tested.",
+    "metaTags": [
+      "Build",
+      "code quality process",
+      "Winning Product Canvas",
+      "Technology Mastery"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "What is your strategy to ensure code quality?",
+        "expectation": "Controls should be in place to ensure code quality, as a part of the team's product development process. Ensure findings are addressed correctly.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "Have you set up a static code analysis tool?",
+        "expectation": "A static code analysis tool should be in place. Reports from scans should be taken as input in code reviews/ pull-request merge process.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 3,
+        "question": "Are you tracking bug root causes?",
+        "expectation": "The team should maintain a log of root causes for the bugs observed. Discuss the root causes and find ways to avoid them in retros.",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lead Capture/CMS",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/lead-capture-cms"
+  },
+  "next": {
+    "title": "Test Automation Setup",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/build/test-automation-setup"
+  }
+}

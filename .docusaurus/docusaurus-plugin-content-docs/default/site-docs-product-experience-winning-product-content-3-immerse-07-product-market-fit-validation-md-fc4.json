@@ -1,0 +1,49 @@
+{
+  "id": "product-experience/winning-product/content/immerse/product-market-fit-validation",
+  "title": "Product Market Fit Validation",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/3-immerse/07-product-market-fit-validation.md",
+  "sourceDirName": "product-experience/winning-product/content/3-immerse",
+  "slug": "/product-experience/winning-product/content/immerse/product-market-fit-validation",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/product-market-fit-validation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Product Market Fit Validation",
+    "metaTitle": "Product Market Fit Validation | WP",
+    "metaDescription": "Makes sure that your product is well tuned to solve the problem specifically for the identified target market.",
+    "published": true,
+    "metaTags": [
+      "Immerse",
+      "Product Market Fit Validation",
+      "Winning Product",
+      "Market Sense"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "How did you identify the target customers for your product/service?",
+        "expectation": "We need to follow the four steps of the product market fit i.e. Discover, Test, Position and Verify",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "What are the measurements of Product Market Fit for your product/service?",
+        "expectation": "We can make use of indicators such as Product Usage Interval, Net Promoter Score, Retention Curve, Growth Rate etc...",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "High Fidelity Prototype",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/high-fidelity-prototype"
+  },
+  "next": {
+    "title": "Product Roadmap",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/product-roadmap"
+  }
+}

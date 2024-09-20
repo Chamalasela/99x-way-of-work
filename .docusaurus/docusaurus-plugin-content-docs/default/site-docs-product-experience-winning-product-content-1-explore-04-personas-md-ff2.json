@@ -1,0 +1,49 @@
+{
+  "id": "product-experience/winning-product/content/explore/personas",
+  "title": "Personas",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/1-explore/04-personas.md",
+  "sourceDirName": "product-experience/winning-product/content/1-explore",
+  "slug": "/product-experience/winning-product/content/explore/personas",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/explore/personas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Personas",
+    "metaTitle": "Personas | WP",
+    "metaDescription": "A tool used to identify the types of users in the product. The product is designed specifically to target their needs instead of a generic set of users.",
+    "published": true,
+    "metaTags": [
+      "Explore",
+      "Persona",
+      "Winning Product Canvas",
+      "User Experience"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "Have you identified the relevant Personas and documented them for your software product?",
+        "expectation": "Identify the different Personas relevant to your software product by analyzing data, conducting interviews & etc and create a document containing all these information in one place.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "Have you conducted any survey's to gather Persona information?",
+        "expectation": "Define the survery questionaries and process you used to gather Personas and document them for future reference.",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Financial Viability",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/explore/financial-viability"
+  },
+  "next": {
+    "title": "Value Proposition",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/explore/value-proposition"
+  }
+}

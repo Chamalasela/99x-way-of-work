@@ -1,0 +1,29 @@
+{
+  "id": "product-experience/winning-product/content/optimize",
+  "title": "Optimize",
+  "description": "When you reach this stage all your major assumptions should be validated. Product UVP must be clear and willingness of the customers to pay for that value proposition has to be confirmed. This means most of the core features are available and tested by your early customers during 'Build' stage.",
+  "source": "@site/docs/product-experience/winning-product/content/6-optimize.md",
+  "sourceDirName": "product-experience/winning-product/content",
+  "slug": "/product-experience/winning-product/content/optimize",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/optimize",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Optimize",
+    "metaTitle": "Optimize | WP",
+    "metaDescription": "Fine tune the product to achieve the maximum output.",
+    "published": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Log Indexing and Analysis",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/log-indexing-and-analysis"
+  },
+  "next": {
+    "title": "Scalability Verification",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/scalability-verification"
+  }
+}

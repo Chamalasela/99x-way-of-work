@@ -1,0 +1,763 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/99x-way-of-work/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/99x-way-of-work/docs",
+          "mainDocId": "facilitated-teams/compliance/privacy/privacy-at-99x",
+          "docs": [
+            {
+              "id": "facilitated-teams/compliance/privacy/australia/introduction-to-privacy-in-australia",
+              "path": "/99x-way-of-work/docs/facilitated-teams/compliance/privacy/australia/introduction-to-privacy-in-australia",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/compliance/privacy/europe/introduction-to-privacy-in-eu",
+              "path": "/99x-way-of-work/docs/facilitated-teams/compliance/privacy/europe/introduction-to-privacy-in-eu",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/compliance/privacy/privacy-at-99x",
+              "path": "/99x-way-of-work/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/compliance/privacy/uk/introduction-to-privacy-in-uk",
+              "path": "/99x-way-of-work/docs/facilitated-teams/compliance/privacy/uk/introduction-to-privacy-in-uk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/compliance/privacy/usa/introduction-to-privacy-in-usa",
+              "path": "/99x-way-of-work/docs/facilitated-teams/compliance/privacy/usa/introduction-to-privacy-in-usa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/compliance/security/README",
+              "path": "/99x-way-of-work/docs/facilitated-teams/compliance/security/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/delivery/methodologies/README",
+              "path": "/99x-way-of-work/docs/facilitated-teams/delivery/methodologies/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/delivery/onboarding/README",
+              "path": "/99x-way-of-work/docs/facilitated-teams/delivery/onboarding/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/delivery/team-setup/README",
+              "path": "/99x-way-of-work/docs/facilitated-teams/delivery/team-setup/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/delivery/work-instructions/README",
+              "path": "/99x-way-of-work/docs/facilitated-teams/delivery/work-instructions/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/99x-well-architected-framework",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/99x-well-architected-framework",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/architecting-new-products",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecting-new-products",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/architecture-assessment/due-diligence-process",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-assessment/due-diligence-process",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/architecture-assessment/health-review",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-assessment/health-review",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/architecture-assessment/security-assessment",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-assessment/security-assessment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/architecture-at-99x",
+              "path": "/99x-way-of-work/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/architecture-evaluation/evaluation-overview",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-evaluation/evaluation-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/architecture-health/health-checklist",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-health/health-checklist",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/architecture-health/health-overview",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-health/health-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/arthitecture-process",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/arthitecture-process",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/case-studies/design-system",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/design-system",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/case-studies/microfrontends",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/microfrontends",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/case-studies/microservices",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/microservices",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/case-studies/multi-tenancy",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/multi-tenancy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/case-studies/serverless",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/serverless",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/focus-areas/cloud-architecture",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/focus-areas/cloud-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/focus-areas/devops",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/focus-areas/devops",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/focus-areas/secops",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/focus-areas/secops",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/focus-areas/web-application",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/focus-areas/web-application",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/kickstarters/aws-microservices/aws-microservice-technical-overview",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/kickstarters/aws-microservices/aws-microservice-technical-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/kickstarters/aws-microservices/aws-microservices-overview",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/kickstarters/aws-microservices/aws-microservices-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/managing-the-debt",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/managing-the-debt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/our-process/continuous-architecture",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/our-process/continuous-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/architecting/our-process/product-architecture",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/our-process/product-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/dev/code-quality-guidelines/README",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/dev/code-quality-guidelines/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/engineering/dev/engineering-excellence-framework/README",
+              "path": "/99x-way-of-work/docs/facilitated-teams/engineering/dev/engineering-excellence-framework/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/reviews/code-quality-analysis/README",
+              "path": "/99x-way-of-work/docs/facilitated-teams/reviews/code-quality-analysis/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/reviews/engineering-reviews/README",
+              "path": "/99x-way-of-work/docs/facilitated-teams/reviews/engineering-reviews/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/reviews/iso-compliance/README",
+              "path": "/99x-way-of-work/docs/facilitated-teams/reviews/iso-compliance/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "facilitated-teams/reviews/security-reviews/README",
+              "path": "/99x-way-of-work/docs/facilitated-teams/reviews/security-reviews/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/99x-way-of-work/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/build",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/build",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/build/architectural-runway",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/build/architectural-runway",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/build/code-quality-process",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/build/code-quality-process",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/build/data-privacy-protection",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/build/data-privacy-protection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/build/feature-prioritization-process",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/build/feature-prioritization-process",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/build/lead-capture-cms",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/build/lead-capture-cms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/build/market-feedback-capture",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/build/market-feedback-capture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/build/portfolio-management",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/build/portfolio-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/build/product-pricing-plan",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/build/product-pricing-plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/build/release-gate-reviews",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/build/release-gate-reviews",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/build/team-on-boarding-learning-plan",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/build/team-on-boarding-learning-plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/build/technical-debt-mgt",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/build/technical-debt-mgt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/build/test-automation-setup",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/build/test-automation-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/build/user-behavior-analysis",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/build/user-behavior-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/build/user-license-management",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/build/user-license-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/build/visitor-behavior-analysis",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/build/visitor-behavior-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/build/vulnerability-assessment",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/build/vulnerability-assessment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/explore",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/explore",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/explore/context-competitor-analysis",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/explore/context-competitor-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/explore/financial-viability",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/explore/financial-viability",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/explore/market-segmentation",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/explore/market-segmentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/explore/megatrend-analysis",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/explore/megatrend-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/explore/personas",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/explore/personas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/explore/product-concept-pitch-deck",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/explore/product-concept-pitch-deck",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/explore/user-journey",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/explore/user-journey",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/explore/value-proposition",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/explore/value-proposition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/focus",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/focus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/focus/brand-story-development",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/focus/brand-story-development",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/focus/business-model-design",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/focus/business-model-design",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/focus/feasibility-study",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/focus/feasibility-study",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/focus/low-fidelity-prototype",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/focus/low-fidelity-prototype",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/focus/mvp-identification",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/focus/mvp-identification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/focus/problem-solution-fit-testing",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/focus/problem-solution-fit-testing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/focus/productization-blueprint",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/focus/productization-blueprint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/focus/technical-architecture",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/focus/technical-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/formatting-guidelines",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/formatting-guidelines",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/formatting-guidelines/syntax-highligting",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/formatting-guidelines/syntax-highligting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/harvest",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/harvest/contingency-and-reliability-reviews",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/contingency-and-reliability-reviews",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/harvest/continuous-improvement-strategy",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/continuous-improvement-strategy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/harvest/hot-fix-process",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/hot-fix-process",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/harvest/inbound-marketing-plan",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/inbound-marketing-plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/harvest/lead-nurture-process",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/lead-nurture-process",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/harvest/monitoring-and-incident-management",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/monitoring-and-incident-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/harvest/public-relations-activity-plan",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/public-relations-activity-plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/harvest/referrals-and-upsales-plan",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/referrals-and-upsales-plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/harvest/scalability-verification",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/scalability-verification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/harvest/technology-revamp-migration-plan",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/technology-revamp-migration-plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/harvest/win-lose-analysis",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/win-lose-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/immerse",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/immerse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/immerse/brand-guide",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/brand-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/immerse/data-architecture",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/data-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/immerse/development-estimations",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/development-estimations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/immerse/high-fidelity-prototype",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/high-fidelity-prototype",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/immerse/operational-costs",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/operational-costs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/immerse/positioning-messages",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/positioning-messages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/immerse/product-market-fit-validation",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/product-market-fit-validation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/immerse/product-roadmap",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/immerse/product-roadmap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/index",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/introduction",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/introduction/areas-of-excellence",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/areas-of-excellence",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/introduction/background",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/background",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/introduction/product-lifecycle",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/product-lifecycle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/introduction/products-are-different",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/products-are-different",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/introduction/what-is-winning-product",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/what-is-winning-product",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/introduction/winning-product-mindset",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/winning-product-mindset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/optimize",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/optimize",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/optimize/analytics-review-process",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/analytics-review-process",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/optimize/compliance-and-approvals",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/compliance-and-approvals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/optimize/cost-optimization",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/cost-optimization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/optimize/customer-contract-management",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/customer-contract-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/optimize/customer-support",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/customer-support",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/optimize/log-indexing-and-analysis",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/log-indexing-and-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/optimize/performance-tuning-plan",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/performance-tuning-plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/optimize/promotions-process",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/promotions-process",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/optimize/tech-team-branding",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/tech-team-branding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/optimize/web-optimization-plan",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/optimize/web-optimization-plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/plan",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/plan/architecture-blueprint",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/architecture-blueprint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/plan/customer-onboarding",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/customer-onboarding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/plan/define-key-metric-tests",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/define-key-metric-tests",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/plan/delivery-pipeline",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/delivery-pipeline",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/plan/detailed-data-schema",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/detailed-data-schema",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/plan/digital-marketing-blueprint",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/digital-marketing-blueprint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/plan/engineering-process",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/engineering-process",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/plan/errors-and-exception-handling",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/errors-and-exception-handling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/plan/growth-hacking-plan",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/growth-hacking-plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/plan/ipr-management",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/ipr-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/plan/product-theme-integration",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/product-theme-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/plan/quality-assurance-plan",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/quality-assurance-plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/plan/quality-assurance-strategy",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/quality-assurance-strategy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/plan/release-management",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/release-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/plan/requirement-process",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/requirement-process",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/plan/team-structure",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/team-structure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/retire",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/retire",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/retire/data-migration-plan",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/retire/data-migration-plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/retire/digital-data-shredding",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/retire/digital-data-shredding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/retire/end-of-life-roadmap",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/retire/end-of-life-roadmap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/retire/platform-migration-plan",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/retire/platform-migration-plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product-experience/winning-product/content/retire/team-knowledge-transfer-plan",
+              "path": "/99x-way-of-work/docs/product-experience/winning-product/content/retire/team-knowledge-transfer-plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/facilitated-teams",
+              "path": "/99x-way-of-work/docs/category/facilitated-teams",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/european-union",
+              "path": "/99x-way-of-work/docs/category/european-union",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/united-states-of-america",
+              "path": "/99x-way-of-work/docs/category/united-states-of-america",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/united-kingdom",
+              "path": "/99x-way-of-work/docs/category/united-kingdom",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/commonwealth-of-australia",
+              "path": "/99x-way-of-work/docs/category/commonwealth-of-australia",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/product-experience",
+              "path": "/99x-way-of-work/docs/category/product-experience",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/99x-way-of-work/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "facilitated-teams/engineering/architecting/architecture-at-99x",
+  "title": "Architecting at 99x",
+  "description": "99X is a company that specialized in building software products and platforms. During the last decade, we have gathered immense knowledge and experience in architecting software products and platforms. This knowledge base is an attempt to share such learning for the benefit of the community.",
+  "source": "@site/docs/facilitated-teams/engineering/architecting/architecture-at-99x.md",
+  "sourceDirName": "facilitated-teams/engineering/architecting",
+  "slug": "/",
+  "permalink": "/99x-way-of-work/docs/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "architecture-at-99x",
+    "title": "Architecting at 99x",
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Security Assesment",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-assessment/security-assessment"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-evaluation/evaluation-overview"
+  }
+}

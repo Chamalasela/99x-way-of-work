@@ -1,0 +1,29 @@
+{
+  "id": "product-experience/winning-product/content/retire",
+  "title": "Retire",
+  "description": "Regardless of how well the product is built and maintained, there’s a time to take it off the market. Retirement can be brought on by a significant technology shift, competitor entrance, or user behaviour changes in the market.",
+  "source": "@site/docs/product-experience/winning-product/content/8-retire.md",
+  "sourceDirName": "product-experience/winning-product/content",
+  "slug": "/product-experience/winning-product/content/retire",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/retire",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Retire",
+    "metaTitle": "Retire | WP",
+    "metaDescription": "Replacing the existing product with a new generation product.",
+    "published": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Digital Data Shredding",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/retire/digital-data-shredding"
+  },
+  "next": {
+    "title": "Syntax Highlighting",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/formatting-guidelines/syntax-highligting"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "product-experience/winning-product/content/explore/market-segmentation",
+  "title": "Market Segmentation",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/1-explore/08-market-segmentation.md",
+  "sourceDirName": "product-experience/winning-product/content/1-explore",
+  "slug": "/product-experience/winning-product/content/explore/market-segmentation",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/explore/market-segmentation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Market Segmentation",
+    "metaTitle": "Market Segmentation | WP",
+    "metaDescription": "The process of dividing a target market into smaller, more defined categories. It segments customers and audiences into groups that share similar characteristics, such as demographics, interests, needs, or location.",
+    "published": true,
+    "metaTags": [
+      "Explore",
+      "Market Segmentation",
+      "Winning Product Canvas",
+      "Market Sense"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "Have you identified the different segments of your target market?",
+        "expectation": "Maintain a document explaining the different characteristics of each market segment.",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Megatrend Analysis",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/explore/megatrend-analysis"
+  },
+  "next": {
+    "title": "Explore",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/explore"
+  }
+}

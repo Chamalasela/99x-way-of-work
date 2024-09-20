@@ -1,0 +1,33 @@
+{
+  "id": "product-experience/winning-product/content/introduction/background",
+  "title": "Why “Winning Product” is necessary?",
+  "description": "Software Product Market",
+  "source": "@site/docs/product-experience/winning-product/content/introduction/01-background.md",
+  "sourceDirName": "product-experience/winning-product/content/introduction",
+  "slug": "/product-experience/winning-product/content/introduction/background",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/background",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Why “Winning Product” is necessary?",
+    "metaTitle": "Why “Winning Product” is necessary? | WP",
+    "metaDescription": "'Winning Product' was initiated to help product teams with important strategic activities to stay ahead of their competition.",
+    "published": true,
+    "metaTags": [
+      "Background",
+      "Winning Product"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Formatting Guidelines",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/formatting-guidelines"
+  },
+  "next": {
+    "title": "Differences in Software Products ",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/introduction/products-are-different"
+  }
+}

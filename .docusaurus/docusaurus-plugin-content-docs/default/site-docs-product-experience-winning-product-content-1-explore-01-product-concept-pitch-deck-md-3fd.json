@@ -1,0 +1,55 @@
+{
+  "id": "product-experience/winning-product/content/explore/product-concept-pitch-deck",
+  "title": "Product Concept Pitch Deck",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/1-explore/01-product-concept-pitch-deck.md",
+  "sourceDirName": "product-experience/winning-product/content/1-explore",
+  "slug": "/product-experience/winning-product/content/explore/product-concept-pitch-deck",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/explore/product-concept-pitch-deck",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Product Concept Pitch Deck",
+    "metaTitle": "Product Concept Pitch Deck | WP",
+    "metaDescription": "Pitching is necessary to acquire customers, investors, team members for products. A successful pitching strategy depends on your audience. That’s why it’s important to learn the tips and tricks of a great pitch.",
+    "published": true,
+    "metaTags": [
+      "Explore",
+      "Product Concept Pitch Deck",
+      "Winning Product Canvas",
+      "Market Sense"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "Do you have a pitch deck to present your product?",
+        "expectation": "Define the competition within your industry. Identify the companies that share the market with products or services that are in direct and indirect competition with your business.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "Does it cover the 5 important areas?",
+        "expectation": "Your pitch deck should state the purpose, marketing and sales, milestones, competition, business model.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 3,
+        "question": "New Question",
+        "expectation": "The Question Description",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Winning Product Learning Portal",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/"
+  },
+  "next": {
+    "title": "Competitor Analysis",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/explore/context-competitor-analysis"
+  }
+}

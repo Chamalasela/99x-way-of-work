@@ -1,0 +1,28 @@
+{
+  "id": "facilitated-teams/compliance/privacy/europe/introduction-to-privacy-in-eu",
+  "title": "Introduction to privacy regulations in European Union",
+  "description": "Keywords",
+  "source": "@site/docs/facilitated-teams/compliance/privacy/europe/intro.md",
+  "sourceDirName": "facilitated-teams/compliance/privacy/europe",
+  "slug": "/facilitated-teams/compliance/privacy/europe/introduction-to-privacy-in-eu",
+  "permalink": "/99x-way-of-work/docs/facilitated-teams/compliance/privacy/europe/introduction-to-privacy-in-eu",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "introduction-to-privacy-in-eu",
+    "title": "Introduction to privacy regulations in European Union",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "European Union",
+    "permalink": "/99x-way-of-work/docs/category/european-union"
+  },
+  "next": {
+    "title": "United States of America",
+    "permalink": "/99x-way-of-work/docs/category/united-states-of-america"
+  }
+}

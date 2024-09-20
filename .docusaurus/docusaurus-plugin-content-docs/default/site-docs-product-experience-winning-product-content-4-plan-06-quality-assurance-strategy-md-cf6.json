@@ -1,0 +1,55 @@
+{
+  "id": "product-experience/winning-product/content/plan/quality-assurance-strategy",
+  "title": "Quality Assurance Strategy",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/4-plan/06-quality-assurance-strategy.md",
+  "sourceDirName": "product-experience/winning-product/content/4-plan",
+  "slug": "/product-experience/winning-product/content/plan/quality-assurance-strategy",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/quality-assurance-strategy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Quality Assurance Strategy",
+    "metaTitle": "Quality Assurance Strategy | WP",
+    "metaDescription": "Defining quality objectives, test approaches, techniques & scope of a software project",
+    "published": true,
+    "metaTags": [
+      "Plan",
+      "Quality Assurance Strategy",
+      "Winning Product",
+      "Technology Mastery"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "Have you identified all the activities that would need to be performed to ensure quality starting from requirement analysis to deployment?",
+        "expectation": "Identifying all the activities required to ensure quality would help in building an effective Quality Assurance Strategy",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "Have you defined a process to capture root causes of defects?",
+        "expectation": "Root causes of defects should be identified and used as an input to identify areas of improvement",
+        "version": "1.0.0"
+      },
+      {
+        "order": 3,
+        "question": "Have you captured potential risks that may affect the successful execution of the QA strategy?",
+        "expectation": "Risks along with their impact and mitigation strategy should be identified",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quality Assurance Plan",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/quality-assurance-plan"
+  },
+  "next": {
+    "title": "Requirement Process",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/requirement-process"
+  }
+}

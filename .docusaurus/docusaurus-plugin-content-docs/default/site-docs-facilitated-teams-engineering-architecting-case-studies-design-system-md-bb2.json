@@ -1,0 +1,26 @@
+{
+  "id": "facilitated-teams/engineering/architecting/case-studies/design-system",
+  "title": "Design Systems",
+  "description": "",
+  "source": "@site/docs/facilitated-teams/engineering/architecting/case-studies/design-system.md",
+  "sourceDirName": "facilitated-teams/engineering/architecting/case-studies",
+  "slug": "/facilitated-teams/engineering/architecting/case-studies/design-system",
+  "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/design-system",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "design-system",
+    "title": "Design Systems"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/architecture-health/health-overview"
+  },
+  "next": {
+    "title": "Microfrontends",
+    "permalink": "/99x-way-of-work/docs/facilitated-teams/engineering/architecting/case-studies/microfrontends"
+  }
+}

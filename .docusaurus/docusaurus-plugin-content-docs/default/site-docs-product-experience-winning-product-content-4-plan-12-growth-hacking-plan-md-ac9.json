@@ -1,0 +1,85 @@
+{
+  "id": "product-experience/winning-product/content/plan/growth-hacking-plan",
+  "title": "Growth Hacker Plan",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/4-plan/12-growth-hacking-plan.md",
+  "sourceDirName": "product-experience/winning-product/content/4-plan",
+  "slug": "/product-experience/winning-product/content/plan/growth-hacking-plan",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/growth-hacking-plan",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "title": "Growth Hacker Plan",
+    "metaTitle": "Growth Hacker Plan | WP",
+    "metaDescription": "Explore low cost and smarter options to gain rapid market reach in a short time for growth through referrals and up-sales.",
+    "published": true,
+    "metaTags": [
+      "Plan",
+      "Growth Hacker Plan",
+      "Winning Product",
+      "Market Sense"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "What are the means of your customers finding you (Awareness)?",
+        "expectation": "Measurements of awareness effectiveness and cost of the each method.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "What are the means of your customers onboarding to your product (Acquisition)?",
+        "expectation": "Measurements of conversion rates and cost of the each method.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 3,
+        "question": "How quickly they get to the 'aha' moment with the product (Activation)?",
+        "expectation": "Knowledge on the proportion of Customers who get their first win (value) through the product and time/effort taken to get there.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 4,
+        "question": "How many of your customers are returning to the product (Retention)?",
+        "expectation": "Knowledge and measures of why some customers are not returning. How frequently the returning customers use the product. What are the features making the customers to return?",
+        "version": "1.0.0"
+      },
+      {
+        "order": 5,
+        "question": "How many of the customers pay for the product and services (Revenue)?",
+        "expectation": "What are the features your customers are willing to pay. How to increase the revenue per customer?",
+        "version": "1.0.0"
+      },
+      {
+        "order": 6,
+        "question": "How many of your customers are active advocates (Referral)?",
+        "expectation": "How many new awareness/acquisitions obtained through customer referrals? How can we improve that?",
+        "version": "1.0.0"
+      },
+      {
+        "order": 7,
+        "question": "Do you measure your AAARRR as a funnel and know where the bottlenecks are?",
+        "expectation": "Visualization of the funnel and conversion statistics at each funnel stage.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 8,
+        "question": "Do you maintain a list of experiments, their results and what tactics bring the most impact on your target market?",
+        "expectation": "Innovation accounting done on the experiments to identify the most effective growth hacking tactics for your business.",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Digital Marketing Blueprint",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/digital-marketing-blueprint"
+  },
+  "next": {
+    "title": "Errors and Exception Handling",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/plan/errors-and-exception-handling"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "product-experience/winning-product/content/harvest/public-relations-activity-plan",
+  "title": "Public Relations Activity Plan",
+  "description": "Why",
+  "source": "@site/docs/product-experience/winning-product/content/7-harvest/09-public-relations-activity-plan.md",
+  "sourceDirName": "product-experience/winning-product/content/7-harvest",
+  "slug": "/product-experience/winning-product/content/harvest/public-relations-activity-plan",
+  "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/public-relations-activity-plan",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Public Relations Activity Plan",
+    "metaTitle": "Public Relations Activity Plan | WP",
+    "metaDescription": "Strategize to enhance the image of the product brand and focus on influential media strategies.",
+    "published": true,
+    "metaTags": [
+      "Harvest",
+      "Public relations plan",
+      "Winning Product Canvas",
+      "Market Sense"
+    ],
+    "checklist": [
+      {
+        "order": 1,
+        "question": "Did you research on PR strategies?",
+        "expectation": "Review your previous efforts, why did it worked or not? If you are new to the market, tactics of your competitors and others in your industry.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 2,
+        "question": "Have you identified your goals and outcomes?",
+        "expectation": "Your PR strategy should tie in with your overall goals and objectives.",
+        "version": "1.0.0"
+      },
+      {
+        "order": 3,
+        "question": "Have you identified any opportunities?",
+        "expectation": "Identify events or activities that present great opportunities for good public relations activities. In doing so, it’s a good idea to look at both internal and external events.",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Technology Revamp/Migration Plan",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/technology-revamp-migration-plan"
+  },
+  "next": {
+    "title": "Contingency and Reliability Reviews",
+    "permalink": "/99x-way-of-work/docs/product-experience/winning-product/content/harvest/contingency-and-reliability-reviews"
+  }
+}
