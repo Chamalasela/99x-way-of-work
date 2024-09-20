@@ -62,7 +62,7 @@ export default {
           "position": "right"
         },
         {
-          "href": "https://github.com/99x/architecture.99x.io",
+          "href": "https://github.com/chamalasela/99x-way-of-work",
           "label": "Contribute",
           "position": "right"
         }

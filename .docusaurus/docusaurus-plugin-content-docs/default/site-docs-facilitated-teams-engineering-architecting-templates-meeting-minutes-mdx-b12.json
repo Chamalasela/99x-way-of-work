@@ -1,0 +1,27 @@
+{
+  "id": "facilitated-teams/engineering/architecting/templates/meeting-minutes",
+  "title": "Meeting Minutes",
+  "description": "Download this template",
+  "source": "@site/docs/facilitated-teams/engineering/architecting/templates/meeting-minutes.mdx",
+  "sourceDirName": "facilitated-teams/engineering/architecting/templates",
+  "slug": "/facilitated-teams/engineering/architecting/templates/meeting-minutes",
+  "permalink": "/docs/facilitated-teams/engineering/architecting/templates/meeting-minutes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/facilitated-teams/engineering/architecting/templates/meeting-minutes.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "meeting-minutes",
+    "title": "Meeting Minutes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/facilitated-teams/engineering/architecting/templates/introduction"
+  },
+  "next": {
+    "title": "Security Checklist",
+    "permalink": "/docs/facilitated-teams/engineering/architecting/templates/security-checklist"
+  }
+}

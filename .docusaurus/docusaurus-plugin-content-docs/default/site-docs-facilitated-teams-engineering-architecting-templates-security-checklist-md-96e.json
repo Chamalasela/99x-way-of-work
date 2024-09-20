@@ -1,0 +1,27 @@
+{
+  "id": "facilitated-teams/engineering/architecting/templates/security-checklist",
+  "title": "Security Checklist",
+  "description": "",
+  "source": "@site/docs/facilitated-teams/engineering/architecting/templates/security-checklist.md",
+  "sourceDirName": "facilitated-teams/engineering/architecting/templates",
+  "slug": "/facilitated-teams/engineering/architecting/templates/security-checklist",
+  "permalink": "/docs/facilitated-teams/engineering/architecting/templates/security-checklist",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/facilitated-teams/engineering/architecting/templates/security-checklist.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "security-checklist",
+    "title": "Security Checklist"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Meeting Minutes",
+    "permalink": "/docs/facilitated-teams/engineering/architecting/templates/meeting-minutes"
+  },
+  "next": {
+    "title": "99x Wow (Way of Work)",
+    "permalink": "/docs/facilitated-teams/engineering/dev/code-quality-guidelines/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "facilitated-teams/engineering/architecting/templates/diagram-samples",
+  "title": "Diagrams Samples",
+  "description": "",
+  "source": "@site/docs/facilitated-teams/engineering/architecting/templates/diagram-samples.md",
+  "sourceDirName": "facilitated-teams/engineering/architecting/templates",
+  "slug": "/facilitated-teams/engineering/architecting/templates/diagram-samples",
+  "permalink": "/docs/facilitated-teams/engineering/architecting/templates/diagram-samples",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/facilitated-teams/engineering/architecting/templates/diagram-samples.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "diagram-samples",
+    "title": "Diagrams Samples"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Decision Logs",
+    "permalink": "/docs/facilitated-teams/engineering/architecting/templates/decision-logs"
+  },
+  "next": {
+    "title": "Health Checklist",
+    "permalink": "/docs/facilitated-teams/engineering/architecting/templates/health-checklist"
+  }
+}
